@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+## Ayam Geprek Mozza
 
-You can use the [editor on GitHub](https://github.com/awangwidip/ADEM/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
+####Nurul Khairiza Utami  19/439819/TK/48549
+####Lathif Ma'arif        19/444058/TK/49254
+####Pipiet Setiowati      19/444065/TK/49261
+####Awang Widi Pratama    19/446769/TK/49874
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+##Project Senior Project TI
 
-### Markdown
+###Departemen Teknik Elektro dan Teknologi Informasi, Fakultas Teknik, Universitas Gadjah Mada
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Nama Produk: Asisten Akademik Maya (ADEM)
+Jenis Produk: Aplikasi Web
 
-```markdown
-Syntax highlighted code block
+####Latar Belakang
 
-# Header 1
-## Header 2
-### Header 3
+Sebagian besar mahasiswa pernah mengalami kesulitan maupun ketertinggalan dalam mendapatkan informasi akademik dan perkuliahan yang penting. Selain itu, terkadang mahasiswa juga banyak memiliki pertanyaan yang cukup sederhana dan berulang. Sistem informasi akademik yang ada saat ini juga cukup sulit digunakan oleh mahasiswa yang ingin dengan cepat memperoleh informasi yang diharapkan.
 
-- Bulleted
-- List
+####Rumusan Permasalahan
 
-1. Numbered
-2. List
+Diperlukan adanya sebuah layanan informasi lengkap yang dapat diakses dengan mudah oleh mahasiswa.
 
-**Bold** and _Italic_ and `Code` text
+####Solusi
 
-[Link](url) and ![Image](src)
-```
+Aplikasi Akademik Virtual yang menyediakan fitur Chat Bot yang membantu memudahkan dan mempercepat komunikasi tanya-jawab antara mahasiswa dengan pihak pengelola program studi, departemen, fakultas, maupun universitas.
 
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/awangwidip/ADEM/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
