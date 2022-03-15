@@ -45,7 +45,7 @@ Mahasiswa, khususnya di lingkungan Departemen Teknik Elektro dan Teknologi Infor
 
 **- Use Case Diagram**
 
-<img src="https://github.com/awangwidip/ADEM/blob/main/docs/docassets/usecase.png" alt="use case diagram" style="width:350px;"/>
+<img src="https://raw.githubusercontent.com/awangwidip/ADEM/main/docs/docassets/usecase.png" alt="use case diagram" style="width:350px;"/>
 
 **- Functional requirements untuk use case yang telah dirancang**
 
@@ -58,12 +58,12 @@ Mahasiswa, khususnya di lingkungan Departemen Teknik Elektro dan Teknologi Infor
 
 **- Entity Relationship Diagram**
 
-<img src="https://github.com/awangwidip/ADEM/blob/main/docs/docassets/erd.png" alt="Entity relationship diagram" style="width:500px;"/>
+<img src="https://raw.githubusercontent.com/awangwidip/ADEM/main/docs/docassets/erd.png" alt="Entity relationship diagram" style="width:500px;"/>
 
 **- Low-fidelity Wireframe**
 
-<img src="https://github.com/awangwidip/ADEM/blob/main/docs/docassets/wireframe.png" alt="Low-fidelity Wireframe"/>
+<img src="https://raw.githubusercontent.com/awangwidip/ADEM/main/docs/docassets/wireframe.png" alt="Low-fidelity Wireframe"/>
 
 **- Gantt-Chart estimasi pengerjaan proyek dalam kurun waktu 1 semester**
 
-<img src="https://github.com/awangwidip/ADEM/blob/main/docs/docassets/gantt.png" alt="Gantt-Chart" style="width:500px;"/>
+<img src="https://raw.githubusercontent.com/awangwidip/ADEM/main/docs/docassets/gantt.png" alt="Gantt-Chart" style="width:500px;"/>
