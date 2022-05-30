@@ -25,19 +25,19 @@ app.use(cors()); //
 
 
 const announcementRouter = require('./routers/announcements')
-app.use('/animals', announcementRouter)
+app.use('/announcements', announcementRouter)
 
 const compScholarRouter = require('./routers/compScholars')
-app.use('/animals', compScholarRouter)
+app.use('/compScholars', compScholarRouter)
 
 const courseRouter = require('./routers/courses')
-app.use('/animals', courseRouter)
+app.use('/courses', courseRouter)
 
 const internshipRouter = require('./routers/internships')
-app.use('/animals', internshipRouter)
+app.use('/internships', internshipRouter)
 
 const newsRouter = require('./routers/newses')
-app.use('/animals', newsRouter)
+app.use('/newses', newsRouter)
 
 
  
