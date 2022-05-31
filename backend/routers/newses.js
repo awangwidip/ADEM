@@ -8,7 +8,7 @@ const News = require('../models/news')
 router.get('/news', async(req,res) => {
     news.find((error, data) => {
         if (error) {
-          return next(error)s
+          return next(error)
         } else {
           res.json(data)
         }

@@ -2,10 +2,10 @@ const express = require('express')
 const router = express.Router()
 
 const compScholar = require('../models/compScholar')
-
+const CompScholar = require('../models/compScholar')
 
 // to get all data
-router.get('/', async(req,res) => {
+router.get('/compScholar', async(req,res) => {
     compScholar.find((error, data) => {
         if (error) {
           return next(error)
@@ -27,7 +27,7 @@ router.get('/', async(req,res) => {
 // to get certain data by id
 router.get('/edit-compScholar/:id', async(req,res) => { //ubah
     try {
-        const compScholar = await compScholar.findById(req.params.id)
+        const compScholar = await CompScholar.findById(req.params.id)
         res.json(compScholar)
     }
     catch (error) {
@@ -38,7 +38,7 @@ router.get('/edit-compScholar/:id', async(req,res) => { //ubah
 // add new data
 router.post('/create-compScholar', async(req,res) => { //ubah
     try {
-        const compScholar = new compScholar({
+        const compScholar = new CompScholar({
             compScholarName : req.body.compScholarName,
             compScholarDate : req.body.compScholarDate,
             compScholarContent : req.body.compScholarContent
@@ -55,7 +55,7 @@ router.post('/create-compScholar', async(req,res) => { //ubah
 //edit existing data
 router.patch('/update-compScholar/:id', async(req,res) => { //ubah patch--> put
     try {
-        const compScholar = await compScholar.findById(req.params.id)
+        const compScholar = await CompScholar.findById(req.params.id)
 
         if (req.body.compScholarName != null) {
             compScholar.compScholarName = req.body.compScholarName
@@ -78,7 +78,7 @@ router.patch('/update-compScholar/:id', async(req,res) => { //ubah patch--> put
 // delete existing data
 router.delete('/delete-compScholar/:id', async(req,res) => { //ubah
     try {
-        const compScholar = await compScholar.findById(req.params.id)
+        const compScholar = await CompScholar.findById(req.params.id)
         compScholar.remove()
         res.json({ message : 'compScholar data deleted'})
     }

@@ -2,10 +2,10 @@ const express = require('express')
 const router = express.Router()
 
 const announcement = require('../models/announcement')
-
+const Announcement = require('../models/announcement')
 
 // to get all data
-router.get('/', async(req,res) => {
+router.get('/announcement', async(req,res) => {
     announcement.find((error, data) => {
         if (error) {
           return next(error)
@@ -27,7 +27,7 @@ router.get('/', async(req,res) => {
 // to get certain data by id
 router.get('/edit-announcement/:id', async(req,res) => { //ubah
     try {
-        const announcement = await announcement.findById(req.params.id)
+        const announcement = await Announcement.findById(req.params.id)
         res.json(announcement)
     }
     catch (error) {
@@ -38,7 +38,7 @@ router.get('/edit-announcement/:id', async(req,res) => { //ubah
 // add new data
 router.post('/create-announcement', async(req,res) => { //ubah
     try {
-        const announcement = new announcement({
+        const announcement = new Announcement({
             announcementName : req.body.announcementName,
             announcementDate : req.body.announcementDate,
             announcementContent : req.body.announcementContent
@@ -55,7 +55,7 @@ router.post('/create-announcement', async(req,res) => { //ubah
 //edit existing data
 router.patch('/update-announcement/:id', async(req,res) => { //ubah patch--> put
     try {
-        const announcement = await announcement.findById(req.params.id)
+        const announcement = await Announcement.findById(req.params.id)
 
         if (req.body.announcementName != null) {
             announcement.announcementName = req.body.announcementName
@@ -78,7 +78,7 @@ router.patch('/update-announcement/:id', async(req,res) => { //ubah patch--> put
 // delete existing data
 router.delete('/delete-announcement/:id', async(req,res) => { //ubah
     try {
-        const announcement = await announcement.findById(req.params.id)
+        const announcement = await Announcement.findById(req.params.id)
         announcement.remove()
         res.json({ message : 'announcement data deleted'})
     }

@@ -7,6 +7,7 @@ const app = express ()
 const mongoose = require('mongoose')
 const url = 'mongodb://adem:t9rNF7mkJEloHoc68mkffSsP7SoqR3dwGHucMmQI7QSSyjiuk2WI34v8E8eoXY0TcckVyOuDgwcYtbB4uvGNRg==@adem.mongo.cosmos.azure.com:10255/?ssl=true&replicaSet=globaldb&retrywrites=false&maxIdleTimeMS=120000&appName=@adem@'
 
+
 mongoose.connect(url, { useNewUrlParser: true, useUnifiedTopology: true })
 const dbcon = mongoose.connection
 
@@ -25,19 +26,19 @@ app.use(cors()); //
 
 
 const announcementRouter = require('./routers/announcements')
-app.use('/announcements', announcementRouter)
+app.use('/', announcementRouter)
 
 const compScholarRouter = require('./routers/compScholars')
-app.use('/compScholars', compScholarRouter)
+app.use('/', compScholarRouter)
 
 const courseRouter = require('./routers/courses')
-app.use('/courses', courseRouter)
+app.use('/', courseRouter)
 
 const internshipRouter = require('./routers/internships')
-app.use('/internships', internshipRouter)
+app.use('/', internshipRouter)
 
 const newsRouter = require('./routers/newses')
-app.use('/newses', newsRouter)
+app.use('/', newsRouter)
 
 
  
