@@ -2,10 +2,10 @@ const express = require('express')
 const router = express.Router()
 
 const internship = require('../models/internship')
-
+const Internship = require('../models/internship')
 
 // to get all data
-router.get('/', async(req,res) => {
+router.get('/internship', async(req,res) => {
     internship.find((error, data) => {
         if (error) {
           return next(error)
@@ -27,7 +27,7 @@ router.get('/', async(req,res) => {
 // to get certain data by id
 router.get('/edit-internship/:id', async(req,res) => { //ubah
     try {
-        const internship = await internship.findById(req.params.id)
+        const internship = await Internship.findById(req.params.id)
         res.json(internship)
     }
     catch (error) {
@@ -38,7 +38,7 @@ router.get('/edit-internship/:id', async(req,res) => { //ubah
 // add new data
 router.post('/create-internship', async(req,res) => { //ubah
     try {
-        const internship = new internship({
+        const internship = new Internship({
             internshipName : req.body.internshipName,
             internshipDate : req.body.internshipDate,
             internshipContent : req.body.internshipContent
@@ -55,7 +55,7 @@ router.post('/create-internship', async(req,res) => { //ubah
 //edit existing data
 router.patch('/update-internship/:id', async(req,res) => { //ubah patch--> put
     try {
-        const internship = await internship.findById(req.params.id)
+        const internship = await Internship.findById(req.params.id)
 
         if (req.body.internshipName != null) {
             internship.internshipName = req.body.internshipName
@@ -78,7 +78,7 @@ router.patch('/update-internship/:id', async(req,res) => { //ubah patch--> put
 // delete existing data
 router.delete('/delete-internship/:id', async(req,res) => { //ubah
     try {
-        const internship = await internship.findById(req.params.id)
+        const internship = await Internship.findById(req.params.id)
         internship.remove()
         res.json({ message : 'internship data deleted'})
     }

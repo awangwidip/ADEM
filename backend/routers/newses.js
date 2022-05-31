@@ -1,12 +1,12 @@
 const express = require('express')
 const router = express.Router()
 
-const newst = require('../models/news')
-
+const news = require('../models/news')
+const News = require('../models/news')
 
 // to get all data
-router.get('/', async(req,res) => {
-    newst.find((error, data) => {
+router.get('/news', async(req,res) => {
+    news.find((error, data) => {
         if (error) {
           return next(error)
         } else {
@@ -15,8 +15,8 @@ router.get('/', async(req,res) => {
       })
     
     // try {
-    //     // const newsts = await newst.find()
-    //     res.json(newsts)
+    //     // const newss = await news.find()
+    //     res.json(newss)
     // }
     // catch (error) {
     //     res.status(500).send(error.message)
@@ -25,10 +25,10 @@ router.get('/', async(req,res) => {
 })
 
 // to get certain data by id
-router.get('/edit-newst/:id', async(req,res) => { //ubah
+router.get('/edit-news/:id', async(req,res) => { //ubah
     try {
-        const newst = await newst.findById(req.params.id)
-        res.json(newst)
+        const news = await News.findById(req.params.id)
+        res.json(news)
     }
     catch (error) {
         res.status(500).send(error.message)
@@ -36,15 +36,15 @@ router.get('/edit-newst/:id', async(req,res) => { //ubah
 })
 
 // add new data
-router.post('/create-newst', async(req,res) => { //ubah
+router.post('/create-news', async(req,res) => { //ubah
     try {
-        const newst = new newst({
-            newstName : req.body.newstName,
-            newstDate : req.body.newstDate,
-            newstContent : req.body.newstContent
+        const news = new News({
+            newsName : req.body.newsName,
+            newsDate : req.body.newsDate,
+            newsContent : req.body.newsContent
         })
 
-        const data = await newst.save()
+        const data = await news.save()
         res.json(data)
     }
     catch (error) {
@@ -53,21 +53,21 @@ router.post('/create-newst', async(req,res) => { //ubah
 })
 
 //edit existing data
-router.patch('/update-newst/:id', async(req,res) => { //ubah patch--> put
+router.patch('/update-news/:id', async(req,res) => { //ubah patch--> put
     try {
-        const newst = await newst.findById(req.params.id)
+        const news = await News.findById(req.params.id)
 
-        if (req.body.newstName != null) {
-            newst.newstName = req.body.newstName
+        if (req.body.newsName != null) {
+            news.newsName = req.body.newsName
         }
-        if (req.body.newstDate != null) {
-            newst.newstDate = req.body.newstDate
+        if (req.body.newsDate != null) {
+            news.newsDate = req.body.newsDate
         }
-        if (req.body.newstContent != null) {
-            newst.newstContent = req.body.newstContent
+        if (req.body.newsContent != null) {
+            news.newsContent = req.body.newsContent
         }
 
-        const updated = await newst.save()
+        const updated = await news.save()
         res.json(updated)
     }
     catch (error) {
@@ -76,11 +76,11 @@ router.patch('/update-newst/:id', async(req,res) => { //ubah patch--> put
 })
 
 // delete existing data
-router.delete('/delete-newst/:id', async(req,res) => { //ubah
+router.delete('/delete-news/:id', async(req,res) => { //ubah
     try {
-        const newst = await newst.findById(req.params.id)
-        newst.remove()
-        res.json({ message : 'newst data deleted'})
+        const news = await News.findById(req.params.id)
+        news.remove()
+        res.json({ message : 'news data deleted'})
     }
     catch (error) {
         res.status(500).send(error.message)
