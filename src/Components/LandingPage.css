@@ -1,0 +1,1923 @@
+.LandingPage_LandingPage {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.LandingPage_LandingPage .AcademicInformation {
+	position: absolute;
+	left: 486px;
+	top: 812px;
+	width: 469px;
+	height: 57px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(29,29,29,1.00);
+	font-family: Open Sans;
+	font-size: 42px;
+	font-weight: 700;
+	line-height: 49.21875px;
+}
+.LandingPage_LandingPage .Group1 {
+	position: absolute;
+	left: 0px;
+	top: 46px;
+	width: 1440px;
+	height: 691px;
+}
+.LandingPage_LandingPage .Group1 .Rectangle48 {
+	position: absolute;
+	left: 0px;
+	top: 34px;
+	width: 1510px;
+	height: 657px;
+	background: rgba(246,241,238,1.00);
+}
+.LandingPage_LandingPage .Group1 .image2 {
+	position: absolute;
+	left: 170px;
+	top: 210px;
+	object-fit: cover;
+	overflow: hidden;
+}
+.LandingPage_LandingPage .Group1 .Sliderright {
+	position: absolute;
+	left: 1302px;
+	top: 333.7562561035156px;
+	width: 70px;
+	height: 71.859375px;
+}
+.LandingPage_LandingPage .Group1 .Sliderright .Ellipse44 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 70px;
+	height: 71.859375px;
+	background: rgba(250,163,43,1.00);
+	border-radius: 50%;
+}
+.LandingPage_LandingPage .Group1 .Sliderright .Vector1 {
+	position: absolute;
+	left: 31px;
+	top: 21.55780029296875px;
+	width: 16.5px;
+	height: 25.150787353515625px;
+}
+.LandingPage_LandingPage .Group1 .Sliderleft {
+	position: absolute;
+	left: 65px;
+	top: 333.7562561035156px;
+	width: 70px;
+	height: 71.859375px;
+}
+.LandingPage_LandingPage .Group1 .Sliderleft .Ellipse44_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 70px;
+	height: 71.859375px;
+	background: rgba(250,163,43,1.00);
+	border-radius: 50%;
+}
+.LandingPage_LandingPage .Group1 .Sliderleft .Vector1_1 {
+	position: absolute;
+	left: 26px;
+	top: 21.55780029296875px;
+	width: 18px;
+	height: 25.150787353515625px;
+}
+.LandingPage_LandingPage .Rectangle112 {
+	position: absolute;
+	left: 465px;
+	top: 1286px;
+	width: 254px;
+	height: 292px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 20px;
+}
+.LandingPage_LandingPage .Rectangle113 {
+	position: absolute;
+	left: 760px;
+	top: 1286px;
+	width: 254px;
+	height: 292px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 20px;
+}
+.LandingPage_LandingPage .Rectangle114 {
+	position: absolute;
+	left: 910px;
+	top: 944px;
+	width: 254px;
+	height: 292px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 20px;
+}
+.LandingPage_LandingPage .Rectangle49 {
+	position: absolute;
+	left: 322px;
+	top: 950px;
+	width: 254px;
+	height: 292px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 20px;
+}
+.LandingPage_LandingPage .Rectangle47 {
+	position: absolute;
+	left: 616px;
+	top: 944px;
+	width: 254px;
+	height: 292px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 20px;
+}
+.LandingPage_LandingPage .CompetitionandSchoolarship {
+	position: absolute;
+	left: 487px;
+	top: 1480px;
+	width: 200px;
+	height: 66px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(29,29,29,1.00);
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 33.10000228881836px;
+}
+.LandingPage_LandingPage .Internship {
+	position: absolute;
+	left: 800px;
+	top: 1481px;
+	width: 175px;
+	height: 33px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(29,29,29,1.00);
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 33.10000228881836px;
+}
+.LandingPage_LandingPage .News {
+	position: absolute;
+	left: 952px;
+	top: 1154px;
+	width: 175px;
+	height: 33px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(29,29,29,1.00);
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 33.10000228881836px;
+}
+.LandingPage_LandingPage .Course {
+	position: absolute;
+	left: 356px;
+	top: 1153px;
+	width: 200px;
+	height: 33px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(29,29,29,1.00);
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 33.10000228881836px;
+}
+.LandingPage_LandingPage .Academic {
+	position: absolute;
+	left: 643px;
+	top: 1153px;
+	width: 200px;
+	height: 33px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(29,29,29,1.00);
+	font-family: Poppins;
+	font-size: 20px;
+	font-weight: 700;
+	line-height: 33.10000228881836px;
+}
+.LandingPage_LandingPage .Jadwal {
+	position: absolute;
+	left: 524px;
+	top: 1341px;
+	width: 131.70361328125px;
+	height: 127px;
+}
+.LandingPage_LandingPage .Jadwal .Rectangle871 {
+	position: absolute;
+	left: 35.27783203125px;
+	top: 16.46295166015625px;
+	width: 79.962890625px;
+	height: 96.4259033203125px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 6px;
+}
+.LandingPage_LandingPage .Jadwal .Rectangle872 {
+	position: absolute;
+	left: 28.22216796875px;
+	top: 9.40740966796875px;
+	width: 84.666748046875px;
+	height: 98.77777099609375px;
+	border-radius: 6px;
+	border: 2px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.LandingPage_LandingPage .Jadwal .Ellipse239 {
+	position: absolute;
+	left: 14.111083984375px;
+	top: 7.0555419921875px;
+	width: 7.0556640625px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(241.00000083446503,241.00000083446503,242.00000077486038,1);
+}
+.LandingPage_LandingPage .Jadwal .Ellipse248 {
+	position: absolute;
+	left: 42.333251953125px;
+	top: 42.33331298828125px;
+	width: 4.70361328125px;
+	height: 4.70367431640625px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal .Ellipse249 {
+	position: absolute;
+	left: 42.333251953125px;
+	top: 28.22222900390625px;
+	width: 4.70361328125px;
+	height: 4.70367431640625px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal .Ellipse250 {
+	position: absolute;
+	left: 42.333251953125px;
+	top: 56.44439697265625px;
+	width: 4.70361328125px;
+	height: 4.70367431640625px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal .Ellipse240 {
+	position: absolute;
+	left: 124.648193359375px;
+	top: 82.3148193359375px;
+	width: 7.0556640625px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal .Ellipse241 {
+	position: absolute;
+	left: 105.833251953125px;
+	top: 0px;
+	width: 7.0556640625px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(241.00000083446503,241.00000083446503,242.00000077486038,1);
+}
+.LandingPage_LandingPage .Jadwal .Group1409 {
+	position: absolute;
+	left: 117.592529296875px;
+	top: 4.70367431640625px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal .Group1409 .Line59 {
+	position: absolute;
+	left: 3.325927734375px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal .Group1409 .Line60 {
+	position: absolute;
+	left: 3.326171875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal .Group1410 {
+	position: absolute;
+	left: 0px;
+	top: 28.22222900390625px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal .Group1410 .Line59_1 {
+	position: absolute;
+	left: 3.325927734375px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal .Group1410 .Line60_1 {
+	position: absolute;
+	left: 3.326171875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal .Group1411 {
+	position: absolute;
+	left: 23.518310546875px;
+	top: 112.88922119140625px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal .Group1411 .Line59_2 {
+	position: absolute;
+	left: 3.325927734375px;
+	top: 3.32611083984375px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal .Group1411 .Line60_2 {
+	position: absolute;
+	left: 3.326171875px;
+	top: 3.32611083984375px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal .Ellipse245 {
+	position: absolute;
+	left: 79.962890625px;
+	top: 87.0185546875px;
+	width: 39.9814453125px;
+	height: 39.9814453125px;
+	background: rgba(0,187,214,1.00);
+	border-radius: 50%;
+}
+.LandingPage_LandingPage .Jadwal .Ellipse246 {
+	position: absolute;
+	left: 75.25927734375px;
+	top: 79.96295166015625px;
+	width: 44.68505859375px;
+	height: 44.6851806640625px;
+	border-radius: 50%;
+	border: 2px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.LandingPage_LandingPage .Jadwal .Line71 {
+	position: absolute;
+	left: 51.74072265625px;
+	top: 32.9259033203125px;
+	width: 37.629638671875px;
+	height: 0px;
+	border: 2px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal .Line72 {
+	position: absolute;
+	left: 54.092529296875px;
+	top: 44.6851806640625px;
+	width: 42.333251953125px;
+	height: 0px;
+}
+.LandingPage_LandingPage .Jadwal .Line73 {
+	position: absolute;
+	left: 54.092529296875px;
+	top: 58.79632568359375px;
+	width: 25.870361328125px;
+	height: 0px;
+}
+.LandingPage_LandingPage .Jadwal .Vector85 {
+	position: absolute;
+	left: 96.42578125px;
+	top: 92.89813232421875px;
+	width: 5.879638671875px;
+	height: 10.58331298828125px;
+}
+.LandingPage_LandingPage .Jadwal .Ellipse257 {
+	position: absolute;
+	left: 14.111083984375px;
+	top: 7.0555419921875px;
+	width: 7.0556640625px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(241.00000083446503,241.00000083446503,242.00000077486038,1);
+}
+.LandingPage_LandingPage .Jadwal .Ellipse258 {
+	position: absolute;
+	left: 42.333251953125px;
+	top: 42.33331298828125px;
+	width: 4.70361328125px;
+	height: 4.70367431640625px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal .Ellipse259 {
+	position: absolute;
+	left: 42.333251953125px;
+	top: 28.22222900390625px;
+	width: 4.70361328125px;
+	height: 4.70367431640625px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal .Ellipse260 {
+	position: absolute;
+	left: 42.333251953125px;
+	top: 56.44439697265625px;
+	width: 4.70361328125px;
+	height: 4.70367431640625px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal .Ellipse261 {
+	position: absolute;
+	left: 124.648193359375px;
+	top: 82.3148193359375px;
+	width: 7.0556640625px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal .Ellipse262 {
+	position: absolute;
+	left: 105.833251953125px;
+	top: 0px;
+	width: 7.0556640625px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(241.00000083446503,241.00000083446503,242.00000077486038,1);
+}
+.LandingPage_LandingPage .Jadwal .Group1419 {
+	position: absolute;
+	left: 117.592529296875px;
+	top: 4.70367431640625px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal .Group1419 .Line59_3 {
+	position: absolute;
+	left: 3.325927734375px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal .Group1419 .Line60_3 {
+	position: absolute;
+	left: 3.326171875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal .Group1420 {
+	position: absolute;
+	left: 0px;
+	top: 28.22222900390625px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal .Group1420 .Line59_4 {
+	position: absolute;
+	left: 3.325927734375px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal .Group1420 .Line60_4 {
+	position: absolute;
+	left: 3.326171875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal .Line74 {
+	position: absolute;
+	left: 51.74072265625px;
+	top: 32.9259033203125px;
+	width: 37.629638671875px;
+	height: 0px;
+	border: 2px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal .Line75 {
+	position: absolute;
+	left: 54.092529296875px;
+	top: 44.6851806640625px;
+	width: 42.333251953125px;
+	height: 0px;
+}
+.LandingPage_LandingPage .Jadwal .Line76 {
+	position: absolute;
+	left: 54.092529296875px;
+	top: 58.79632568359375px;
+	width: 25.870361328125px;
+	height: 0px;
+}
+.LandingPage_LandingPage .Jadwal_1 {
+	position: absolute;
+	left: 819px;
+	top: 1348px;
+	width: 131.70361328125px;
+	height: 127px;
+}
+.LandingPage_LandingPage .Jadwal_1 .Rectangle871_1 {
+	position: absolute;
+	left: 35.2777099609375px;
+	top: 16.46295166015625px;
+	width: 79.9630126953125px;
+	height: 96.4259033203125px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 6px;
+}
+.LandingPage_LandingPage .Jadwal_1 .Rectangle872_1 {
+	position: absolute;
+	left: 28.22216796875px;
+	top: 9.40740966796875px;
+	width: 84.6666259765625px;
+	height: 98.77777099609375px;
+	border-radius: 6px;
+	border: 2px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.LandingPage_LandingPage .Jadwal_1 .Ellipse239_1 {
+	position: absolute;
+	left: 14.111083984375px;
+	top: 7.0555419921875px;
+	width: 7.0555419921875px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(241.00000083446503,241.00000083446503,242.00000077486038,1);
+}
+.LandingPage_LandingPage .Jadwal_1 .Ellipse248_1 {
+	position: absolute;
+	left: 42.3333740234375px;
+	top: 42.33331298828125px;
+	width: 4.7037353515625px;
+	height: 4.70367431640625px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_1 .Ellipse249_1 {
+	position: absolute;
+	left: 42.3333740234375px;
+	top: 28.22222900390625px;
+	width: 4.7037353515625px;
+	height: 4.70367431640625px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_1 .Ellipse250_1 {
+	position: absolute;
+	left: 42.3333740234375px;
+	top: 56.44439697265625px;
+	width: 4.7037353515625px;
+	height: 4.70367431640625px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_1 .Ellipse240_1 {
+	position: absolute;
+	left: 124.6480712890625px;
+	top: 82.3148193359375px;
+	width: 7.0555419921875px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_1 .Ellipse241_1 {
+	position: absolute;
+	left: 105.833251953125px;
+	top: 0px;
+	width: 7.0555419921875px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(241.00000083446503,241.00000083446503,242.00000077486038,1);
+}
+.LandingPage_LandingPage .Jadwal_1 .Group1409_1 {
+	position: absolute;
+	left: 117.5924072265625px;
+	top: 4.70367431640625px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal_1 .Group1409_1 .Line59_5 {
+	position: absolute;
+	left: 3.3260498046875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_1 .Group1409_1 .Line60_5 {
+	position: absolute;
+	left: 3.3260498046875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_1 .Group1410_1 {
+	position: absolute;
+	left: 0px;
+	top: 28.22222900390625px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal_1 .Group1410_1 .Line59_6 {
+	position: absolute;
+	left: 3.3260498046875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_1 .Group1410_1 .Line60_6 {
+	position: absolute;
+	left: 3.3260498046875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_1 .Group1411_1 {
+	position: absolute;
+	left: 23.5184326171875px;
+	top: 112.88934326171875px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal_1 .Group1411_1 .Line59_7 {
+	position: absolute;
+	left: 3.3260498046875px;
+	top: 3.32611083984375px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_1 .Group1411_1 .Line60_7 {
+	position: absolute;
+	left: 3.3260498046875px;
+	top: 3.32611083984375px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_1 .Ellipse245_1 {
+	position: absolute;
+	left: 79.962890625px;
+	top: 87.0185546875px;
+	width: 39.9814453125px;
+	height: 39.9814453125px;
+	background: rgba(0,187,214,1.00);
+	border-radius: 50%;
+}
+.LandingPage_LandingPage .Jadwal_1 .Ellipse246_1 {
+	position: absolute;
+	left: 75.25927734375px;
+	top: 79.96295166015625px;
+	width: 44.6851806640625px;
+	height: 44.6851806640625px;
+	border-radius: 50%;
+	border: 2px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.LandingPage_LandingPage .Jadwal_1 .Line71_1 {
+	position: absolute;
+	left: 51.74072265625px;
+	top: 32.9259033203125px;
+	width: 37.629638671875px;
+	height: 0px;
+	border: 2px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_1 .Line72_1 {
+	position: absolute;
+	left: 54.092529296875px;
+	top: 44.6851806640625px;
+	width: 42.3333740234375px;
+	height: 0px;
+}
+.LandingPage_LandingPage .Jadwal_1 .Line73_1 {
+	position: absolute;
+	left: 54.092529296875px;
+	top: 58.79632568359375px;
+	width: 25.870361328125px;
+	height: 0px;
+}
+.LandingPage_LandingPage .Jadwal_1 .Vector85_1 {
+	position: absolute;
+	left: 96.42578125px;
+	top: 92.89813232421875px;
+	width: 5.879638671875px;
+	height: 10.58331298828125px;
+}
+.LandingPage_LandingPage .Jadwal_1 .Ellipse257_1 {
+	position: absolute;
+	left: 14.111083984375px;
+	top: 7.0555419921875px;
+	width: 7.0555419921875px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(241.00000083446503,241.00000083446503,242.00000077486038,1);
+}
+.LandingPage_LandingPage .Jadwal_1 .Ellipse258_1 {
+	position: absolute;
+	left: 42.3333740234375px;
+	top: 42.33331298828125px;
+	width: 4.7037353515625px;
+	height: 4.70367431640625px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_1 .Ellipse259_1 {
+	position: absolute;
+	left: 42.3333740234375px;
+	top: 28.22222900390625px;
+	width: 4.7037353515625px;
+	height: 4.70367431640625px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_1 .Ellipse260_1 {
+	position: absolute;
+	left: 42.3333740234375px;
+	top: 56.44439697265625px;
+	width: 4.7037353515625px;
+	height: 4.70367431640625px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_1 .Ellipse261_1 {
+	position: absolute;
+	left: 124.6480712890625px;
+	top: 82.3148193359375px;
+	width: 7.0555419921875px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_1 .Ellipse262_1 {
+	position: absolute;
+	left: 105.833251953125px;
+	top: 0px;
+	width: 7.0555419921875px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(241.00000083446503,241.00000083446503,242.00000077486038,1);
+}
+.LandingPage_LandingPage .Jadwal_1 .Group1419_1 {
+	position: absolute;
+	left: 117.5924072265625px;
+	top: 4.70367431640625px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal_1 .Group1419_1 .Line59_8 {
+	position: absolute;
+	left: 3.3260498046875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_1 .Group1419_1 .Line60_8 {
+	position: absolute;
+	left: 3.3260498046875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_1 .Group1420_1 {
+	position: absolute;
+	left: 0px;
+	top: 28.22222900390625px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal_1 .Group1420_1 .Line59_9 {
+	position: absolute;
+	left: 3.3260498046875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_1 .Group1420_1 .Line60_9 {
+	position: absolute;
+	left: 3.3260498046875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_1 .Line74_1 {
+	position: absolute;
+	left: 51.74072265625px;
+	top: 32.9259033203125px;
+	width: 37.629638671875px;
+	height: 0px;
+	border: 2px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_1 .Line75_1 {
+	position: absolute;
+	left: 54.092529296875px;
+	top: 44.6851806640625px;
+	width: 42.3333740234375px;
+	height: 0px;
+}
+.LandingPage_LandingPage .Jadwal_1 .Line76_1 {
+	position: absolute;
+	left: 54.092529296875px;
+	top: 58.79632568359375px;
+	width: 25.870361328125px;
+	height: 0px;
+}
+.LandingPage_LandingPage .Jadwal_2 {
+	position: absolute;
+	left: 960px;
+	top: 1008px;
+	width: 131.70361328125px;
+	height: 127px;
+}
+.LandingPage_LandingPage .Jadwal_2 .Rectangle871_2 {
+	position: absolute;
+	left: 35.2777099609375px;
+	top: 16.46295166015625px;
+	width: 79.9630126953125px;
+	height: 96.4259033203125px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 6px;
+}
+.LandingPage_LandingPage .Jadwal_2 .Rectangle872_2 {
+	position: absolute;
+	left: 28.22216796875px;
+	top: 9.40740966796875px;
+	width: 84.6666259765625px;
+	height: 98.77777099609375px;
+	border-radius: 6px;
+	border: 2px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.LandingPage_LandingPage .Jadwal_2 .Ellipse239_2 {
+	position: absolute;
+	left: 14.111083984375px;
+	top: 7.0555419921875px;
+	width: 7.0555419921875px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(241.00000083446503,241.00000083446503,242.00000077486038,1);
+}
+.LandingPage_LandingPage .Jadwal_2 .Ellipse248_2 {
+	position: absolute;
+	left: 42.3333740234375px;
+	top: 42.33331298828125px;
+	width: 4.7037353515625px;
+	height: 4.703704833984375px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_2 .Ellipse249_2 {
+	position: absolute;
+	left: 42.3333740234375px;
+	top: 28.22222900390625px;
+	width: 4.7037353515625px;
+	height: 4.703704833984375px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_2 .Ellipse250_2 {
+	position: absolute;
+	left: 42.3333740234375px;
+	top: 56.44439697265625px;
+	width: 4.7037353515625px;
+	height: 4.703704833984375px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_2 .Ellipse240_2 {
+	position: absolute;
+	left: 124.6480712890625px;
+	top: 82.31478881835938px;
+	width: 7.0555419921875px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_2 .Ellipse241_2 {
+	position: absolute;
+	left: 105.833251953125px;
+	top: 0px;
+	width: 7.0555419921875px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(241.00000083446503,241.00000083446503,242.00000077486038,1);
+}
+.LandingPage_LandingPage .Jadwal_2 .Group1409_2 {
+	position: absolute;
+	left: 117.5924072265625px;
+	top: 4.70367431640625px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal_2 .Group1409_2 .Line59_10 {
+	position: absolute;
+	left: 3.3260498046875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_2 .Group1409_2 .Line60_10 {
+	position: absolute;
+	left: 3.3260498046875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_2 .Group1410_2 {
+	position: absolute;
+	left: 0px;
+	top: 28.22222900390625px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal_2 .Group1410_2 .Line59_11 {
+	position: absolute;
+	left: 3.3260498046875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_2 .Group1410_2 .Line60_11 {
+	position: absolute;
+	left: 3.3260498046875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_2 .Group1411_2 {
+	position: absolute;
+	left: 23.5184326171875px;
+	top: 112.88946533203125px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal_2 .Group1411_2 .Line59_12 {
+	position: absolute;
+	left: 3.3260498046875px;
+	top: 3.326141357421875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_2 .Group1411_2 .Line60_12 {
+	position: absolute;
+	left: 3.3260498046875px;
+	top: 3.326141357421875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_2 .Ellipse245_2 {
+	position: absolute;
+	left: 79.962890625px;
+	top: 87.0185546875px;
+	width: 39.9814453125px;
+	height: 39.981475830078125px;
+	background: rgba(0,187,214,1.00);
+	border-radius: 50%;
+}
+.LandingPage_LandingPage .Jadwal_2 .Ellipse246_2 {
+	position: absolute;
+	left: 75.25927734375px;
+	top: 79.96292114257812px;
+	width: 44.6851806640625px;
+	height: 44.6851806640625px;
+	border-radius: 50%;
+	border: 2px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.LandingPage_LandingPage .Jadwal_2 .Line71_2 {
+	position: absolute;
+	left: 51.74072265625px;
+	top: 32.925933837890625px;
+	width: 37.629638671875px;
+	height: 0px;
+	border: 2px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_2 .Line72_2 {
+	position: absolute;
+	left: 54.092529296875px;
+	top: 44.6851806640625px;
+	width: 42.3333740234375px;
+	height: 0px;
+}
+.LandingPage_LandingPage .Jadwal_2 .Line73_2 {
+	position: absolute;
+	left: 54.092529296875px;
+	top: 58.796295166015625px;
+	width: 25.870361328125px;
+	height: 0px;
+}
+.LandingPage_LandingPage .Jadwal_2 .Vector85_2 {
+	position: absolute;
+	left: 96.42578125px;
+	top: 92.89813232421875px;
+	width: 5.879638671875px;
+	height: 10.583343505859375px;
+}
+.LandingPage_LandingPage .Jadwal_2 .Ellipse257_2 {
+	position: absolute;
+	left: 14.111083984375px;
+	top: 7.0555419921875px;
+	width: 7.0555419921875px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(241.00000083446503,241.00000083446503,242.00000077486038,1);
+}
+.LandingPage_LandingPage .Jadwal_2 .Ellipse258_2 {
+	position: absolute;
+	left: 42.3333740234375px;
+	top: 42.33331298828125px;
+	width: 4.7037353515625px;
+	height: 4.703704833984375px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_2 .Ellipse259_2 {
+	position: absolute;
+	left: 42.3333740234375px;
+	top: 28.22222900390625px;
+	width: 4.7037353515625px;
+	height: 4.703704833984375px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_2 .Ellipse260_2 {
+	position: absolute;
+	left: 42.3333740234375px;
+	top: 56.44439697265625px;
+	width: 4.7037353515625px;
+	height: 4.703704833984375px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_2 .Ellipse261_2 {
+	position: absolute;
+	left: 124.6480712890625px;
+	top: 82.31478881835938px;
+	width: 7.0555419921875px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_2 .Ellipse262_2 {
+	position: absolute;
+	left: 105.833251953125px;
+	top: 0px;
+	width: 7.0555419921875px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(241.00000083446503,241.00000083446503,242.00000077486038,1);
+}
+.LandingPage_LandingPage .Jadwal_2 .Group1419_2 {
+	position: absolute;
+	left: 117.5924072265625px;
+	top: 4.70367431640625px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal_2 .Group1419_2 .Line59_13 {
+	position: absolute;
+	left: 3.3260498046875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_2 .Group1419_2 .Line60_13 {
+	position: absolute;
+	left: 3.3260498046875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_2 .Group1420_2 {
+	position: absolute;
+	left: 0px;
+	top: 28.22222900390625px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal_2 .Group1420_2 .Line59_14 {
+	position: absolute;
+	left: 3.3260498046875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_2 .Group1420_2 .Line60_14 {
+	position: absolute;
+	left: 3.3260498046875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_2 .Line74_2 {
+	position: absolute;
+	left: 51.74072265625px;
+	top: 32.925933837890625px;
+	width: 37.629638671875px;
+	height: 0px;
+	border: 2px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_2 .Line75_2 {
+	position: absolute;
+	left: 54.092529296875px;
+	top: 44.6851806640625px;
+	width: 42.3333740234375px;
+	height: 0px;
+}
+.LandingPage_LandingPage .Jadwal_2 .Line76_2 {
+	position: absolute;
+	left: 54.092529296875px;
+	top: 58.796295166015625px;
+	width: 25.870361328125px;
+	height: 0px;
+}
+.LandingPage_LandingPage .Jadwal_3 {
+	position: absolute;
+	left: 383px;
+	top: 1004px;
+	width: 131.70361328125px;
+	height: 127px;
+}
+.LandingPage_LandingPage .Jadwal_3 .Rectangle871_3 {
+	position: absolute;
+	left: 35.27783203125px;
+	top: 16.46295166015625px;
+	width: 79.962890625px;
+	height: 96.4259033203125px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 6px;
+}
+.LandingPage_LandingPage .Jadwal_3 .Rectangle872_3 {
+	position: absolute;
+	left: 28.22216796875px;
+	top: 9.40740966796875px;
+	width: 84.666748046875px;
+	height: 98.77777099609375px;
+	border-radius: 6px;
+	border: 2px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.LandingPage_LandingPage .Jadwal_3 .Ellipse239_3 {
+	position: absolute;
+	left: 14.111083984375px;
+	top: 7.0555419921875px;
+	width: 7.0556640625px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(241.00000083446503,241.00000083446503,242.00000077486038,1);
+}
+.LandingPage_LandingPage .Jadwal_3 .Ellipse248_3 {
+	position: absolute;
+	left: 42.333251953125px;
+	top: 42.33331298828125px;
+	width: 4.70361328125px;
+	height: 4.703704833984375px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_3 .Ellipse249_3 {
+	position: absolute;
+	left: 42.333251953125px;
+	top: 28.22222900390625px;
+	width: 4.70361328125px;
+	height: 4.703704833984375px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_3 .Ellipse250_3 {
+	position: absolute;
+	left: 42.333251953125px;
+	top: 56.44439697265625px;
+	width: 4.70361328125px;
+	height: 4.703704833984375px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_3 .Ellipse240_3 {
+	position: absolute;
+	left: 124.648193359375px;
+	top: 82.31478881835938px;
+	width: 7.0556640625px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_3 .Ellipse241_3 {
+	position: absolute;
+	left: 105.833251953125px;
+	top: 0px;
+	width: 7.0556640625px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(241.00000083446503,241.00000083446503,242.00000077486038,1);
+}
+.LandingPage_LandingPage .Jadwal_3 .Group1409_3 {
+	position: absolute;
+	left: 117.592529296875px;
+	top: 4.70367431640625px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal_3 .Group1409_3 .Line59_15 {
+	position: absolute;
+	left: 3.325927734375px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_3 .Group1409_3 .Line60_15 {
+	position: absolute;
+	left: 3.326171875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_3 .Group1410_3 {
+	position: absolute;
+	left: 0px;
+	top: 28.22222900390625px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal_3 .Group1410_3 .Line59_16 {
+	position: absolute;
+	left: 3.325927734375px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_3 .Group1410_3 .Line60_16 {
+	position: absolute;
+	left: 3.326171875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_3 .Group1411_3 {
+	position: absolute;
+	left: 23.518310546875px;
+	top: 112.88906860351562px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal_3 .Group1411_3 .Line59_17 {
+	position: absolute;
+	left: 3.325927734375px;
+	top: 3.326141357421875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_3 .Group1411_3 .Line60_17 {
+	position: absolute;
+	left: 3.326171875px;
+	top: 3.326141357421875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_3 .Ellipse245_3 {
+	position: absolute;
+	left: 79.962890625px;
+	top: 87.0185546875px;
+	width: 39.9814453125px;
+	height: 39.981475830078125px;
+	background: rgba(0,187,214,1.00);
+	border-radius: 50%;
+}
+.LandingPage_LandingPage .Jadwal_3 .Ellipse246_3 {
+	position: absolute;
+	left: 75.25927734375px;
+	top: 79.96292114257812px;
+	width: 44.68505859375px;
+	height: 44.6851806640625px;
+	border-radius: 50%;
+	border: 2px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.LandingPage_LandingPage .Jadwal_3 .Line71_3 {
+	position: absolute;
+	left: 51.74072265625px;
+	top: 32.925933837890625px;
+	width: 37.629638671875px;
+	height: 0px;
+	border: 2px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_3 .Line72_3 {
+	position: absolute;
+	left: 54.092529296875px;
+	top: 44.6851806640625px;
+	width: 42.333251953125px;
+	height: 0px;
+}
+.LandingPage_LandingPage .Jadwal_3 .Line73_3 {
+	position: absolute;
+	left: 54.092529296875px;
+	top: 58.796295166015625px;
+	width: 25.870361328125px;
+	height: 0px;
+}
+.LandingPage_LandingPage .Jadwal_3 .Vector85_3 {
+	position: absolute;
+	left: 96.42578125px;
+	top: 92.89813232421875px;
+	width: 5.879638671875px;
+	height: 10.583343505859375px;
+}
+.LandingPage_LandingPage .Jadwal_3 .Ellipse257_3 {
+	position: absolute;
+	left: 14.111083984375px;
+	top: 7.0555419921875px;
+	width: 7.0556640625px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(241.00000083446503,241.00000083446503,242.00000077486038,1);
+}
+.LandingPage_LandingPage .Jadwal_3 .Ellipse258_3 {
+	position: absolute;
+	left: 42.333251953125px;
+	top: 42.33331298828125px;
+	width: 4.70361328125px;
+	height: 4.703704833984375px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_3 .Ellipse259_3 {
+	position: absolute;
+	left: 42.333251953125px;
+	top: 28.22222900390625px;
+	width: 4.70361328125px;
+	height: 4.703704833984375px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_3 .Ellipse260_3 {
+	position: absolute;
+	left: 42.333251953125px;
+	top: 56.44439697265625px;
+	width: 4.70361328125px;
+	height: 4.703704833984375px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_3 .Ellipse261_3 {
+	position: absolute;
+	left: 124.648193359375px;
+	top: 82.31478881835938px;
+	width: 7.0556640625px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_3 .Ellipse262_3 {
+	position: absolute;
+	left: 105.833251953125px;
+	top: 0px;
+	width: 7.0556640625px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(241.00000083446503,241.00000083446503,242.00000077486038,1);
+}
+.LandingPage_LandingPage .Jadwal_3 .Group1419_3 {
+	position: absolute;
+	left: 117.592529296875px;
+	top: 4.70367431640625px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal_3 .Group1419_3 .Line59_18 {
+	position: absolute;
+	left: 3.325927734375px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_3 .Group1419_3 .Line60_18 {
+	position: absolute;
+	left: 3.326171875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_3 .Group1420_3 {
+	position: absolute;
+	left: 0px;
+	top: 28.22222900390625px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal_3 .Group1420_3 .Line59_19 {
+	position: absolute;
+	left: 3.325927734375px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_3 .Group1420_3 .Line60_19 {
+	position: absolute;
+	left: 3.326171875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_3 .Line74_3 {
+	position: absolute;
+	left: 51.74072265625px;
+	top: 32.925933837890625px;
+	width: 37.629638671875px;
+	height: 0px;
+	border: 2px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_3 .Line75_3 {
+	position: absolute;
+	left: 54.092529296875px;
+	top: 44.6851806640625px;
+	width: 42.333251953125px;
+	height: 0px;
+}
+.LandingPage_LandingPage .Jadwal_3 .Line76_3 {
+	position: absolute;
+	left: 54.092529296875px;
+	top: 58.796295166015625px;
+	width: 25.870361328125px;
+	height: 0px;
+}
+.LandingPage_LandingPage .Jadwal_4 {
+	position: absolute;
+	left: 677px;
+	top: 1004px;
+	width: 131.70361328125px;
+	height: 127px;
+}
+.LandingPage_LandingPage .Jadwal_4 .Rectangle871_4 {
+	position: absolute;
+	left: 35.27783203125px;
+	top: 16.46295166015625px;
+	width: 79.962890625px;
+	height: 96.4259033203125px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 6px;
+}
+.LandingPage_LandingPage .Jadwal_4 .Rectangle872_4 {
+	position: absolute;
+	left: 28.22216796875px;
+	top: 9.40740966796875px;
+	width: 84.666748046875px;
+	height: 98.77777099609375px;
+	border-radius: 6px;
+	border: 2px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.LandingPage_LandingPage .Jadwal_4 .Ellipse239_4 {
+	position: absolute;
+	left: 14.111083984375px;
+	top: 7.0555419921875px;
+	width: 7.0556640625px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(241.00000083446503,241.00000083446503,242.00000077486038,1);
+}
+.LandingPage_LandingPage .Jadwal_4 .Ellipse248_4 {
+	position: absolute;
+	left: 42.333251953125px;
+	top: 42.33331298828125px;
+	width: 4.70361328125px;
+	height: 4.703704833984375px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_4 .Ellipse249_4 {
+	position: absolute;
+	left: 42.333251953125px;
+	top: 28.22222900390625px;
+	width: 4.70361328125px;
+	height: 4.703704833984375px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_4 .Ellipse250_4 {
+	position: absolute;
+	left: 42.333251953125px;
+	top: 56.44439697265625px;
+	width: 4.70361328125px;
+	height: 4.703704833984375px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_4 .Ellipse240_4 {
+	position: absolute;
+	left: 124.648193359375px;
+	top: 82.31478881835938px;
+	width: 7.0556640625px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_4 .Ellipse241_4 {
+	position: absolute;
+	left: 105.833251953125px;
+	top: 0px;
+	width: 7.0556640625px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(241.00000083446503,241.00000083446503,242.00000077486038,1);
+}
+.LandingPage_LandingPage .Jadwal_4 .Group1409_4 {
+	position: absolute;
+	left: 117.592529296875px;
+	top: 4.70367431640625px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal_4 .Group1409_4 .Line59_20 {
+	position: absolute;
+	left: 3.325927734375px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_4 .Group1409_4 .Line60_20 {
+	position: absolute;
+	left: 3.326171875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_4 .Group1410_4 {
+	position: absolute;
+	left: 0px;
+	top: 28.22222900390625px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal_4 .Group1410_4 .Line59_21 {
+	position: absolute;
+	left: 3.325927734375px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_4 .Group1410_4 .Line60_21 {
+	position: absolute;
+	left: 3.326171875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_4 .Group1411_4 {
+	position: absolute;
+	left: 23.518310546875px;
+	top: 112.88922119140625px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal_4 .Group1411_4 .Line59_22 {
+	position: absolute;
+	left: 3.325927734375px;
+	top: 3.326141357421875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_4 .Group1411_4 .Line60_22 {
+	position: absolute;
+	left: 3.326171875px;
+	top: 3.326141357421875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_4 .Ellipse245_4 {
+	position: absolute;
+	left: 79.962890625px;
+	top: 87.0185546875px;
+	width: 39.9814453125px;
+	height: 39.981475830078125px;
+	background: rgba(0,187,214,1.00);
+	border-radius: 50%;
+}
+.LandingPage_LandingPage .Jadwal_4 .Ellipse246_4 {
+	position: absolute;
+	left: 75.25927734375px;
+	top: 79.96292114257812px;
+	width: 44.68505859375px;
+	height: 44.6851806640625px;
+	border-radius: 50%;
+	border: 2px solid rgba(0,0,0,1);
+	box-sizing: border-box;
+}
+.LandingPage_LandingPage .Jadwal_4 .Line71_4 {
+	position: absolute;
+	left: 51.74072265625px;
+	top: 32.925933837890625px;
+	width: 37.629638671875px;
+	height: 0px;
+	border: 2px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_4 .Line72_4 {
+	position: absolute;
+	left: 54.092529296875px;
+	top: 44.6851806640625px;
+	width: 42.333251953125px;
+	height: 0px;
+}
+.LandingPage_LandingPage .Jadwal_4 .Line73_4 {
+	position: absolute;
+	left: 54.092529296875px;
+	top: 58.796295166015625px;
+	width: 25.870361328125px;
+	height: 0px;
+}
+.LandingPage_LandingPage .Jadwal_4 .Vector85_4 {
+	position: absolute;
+	left: 96.42578125px;
+	top: 92.89813232421875px;
+	width: 5.879638671875px;
+	height: 10.583343505859375px;
+}
+.LandingPage_LandingPage .Jadwal_4 .Ellipse257_4 {
+	position: absolute;
+	left: 14.111083984375px;
+	top: 7.0555419921875px;
+	width: 7.0556640625px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(241.00000083446503,241.00000083446503,242.00000077486038,1);
+}
+.LandingPage_LandingPage .Jadwal_4 .Ellipse258_4 {
+	position: absolute;
+	left: 42.333251953125px;
+	top: 42.33331298828125px;
+	width: 4.70361328125px;
+	height: 4.703704833984375px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_4 .Ellipse259_4 {
+	position: absolute;
+	left: 42.333251953125px;
+	top: 28.22222900390625px;
+	width: 4.70361328125px;
+	height: 4.703704833984375px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_4 .Ellipse260_4 {
+	position: absolute;
+	left: 42.333251953125px;
+	top: 56.44439697265625px;
+	width: 4.70361328125px;
+	height: 4.703704833984375px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_4 .Ellipse261_4 {
+	position: absolute;
+	left: 124.648193359375px;
+	top: 82.31478881835938px;
+	width: 7.0556640625px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_4 .Ellipse262_4 {
+	position: absolute;
+	left: 105.833251953125px;
+	top: 0px;
+	width: 7.0556640625px;
+	height: 7.0555419921875px;
+	border-radius: 50%;
+	border: 1px solid rgba(241.00000083446503,241.00000083446503,242.00000077486038,1);
+}
+.LandingPage_LandingPage .Jadwal_4 .Group1419_4 {
+	position: absolute;
+	left: 117.592529296875px;
+	top: 4.70367431640625px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal_4 .Group1419_4 .Line59_23 {
+	position: absolute;
+	left: 3.325927734375px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_4 .Group1419_4 .Line60_23 {
+	position: absolute;
+	left: 3.326171875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_4 .Group1420_4 {
+	position: absolute;
+	left: 0px;
+	top: 28.22222900390625px;
+	width: 13.30419921875px;
+	height: 13.3040771484375px;
+}
+.LandingPage_LandingPage .Jadwal_4 .Group1420_4 .Line59_24 {
+	position: absolute;
+	left: 3.325927734375px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_4 .Group1420_4 .Line60_24 {
+	position: absolute;
+	left: 3.326171875px;
+	top: 3.3260498046875px;
+	width: 6.652099609375px;
+	height: 6.65203857421875px;
+}
+.LandingPage_LandingPage .Jadwal_4 .Line74_4 {
+	position: absolute;
+	left: 51.74072265625px;
+	top: 32.925933837890625px;
+	width: 37.629638671875px;
+	height: 0px;
+	border: 2px solid rgba(1.0000000591389835,177.0000046491623,175.00000476837158,1);
+}
+.LandingPage_LandingPage .Jadwal_4 .Line75_4 {
+	position: absolute;
+	left: 54.092529296875px;
+	top: 44.6851806640625px;
+	width: 42.333251953125px;
+	height: 0px;
+}
+.LandingPage_LandingPage .Jadwal_4 .Line76_4 {
+	position: absolute;
+	left: 54.092529296875px;
+	top: 58.796295166015625px;
+	width: 25.870361328125px;
+	height: 0px;
+}
+.LandingPage_LandingPage .BingungYukTanyaMaya {
+	position: absolute;
+	left: 968px;
+	top: 1690px;
+	width: 445px;
+	height: 63px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 28px;
+	font-weight: 700;
+	line-height: 32.8125px;
+}
+.LandingPage_LandingPage .Group1445 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1512px;
+	height: 80px;
+}
+.LandingPage_LandingPage .Group1445 .Header {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1512px;
+	height: 80px;
+	background: rgba(35,113,148,1.00);
+}
+.LandingPage_LandingPage .Group1445 .Header .Home {
+	position: absolute;
+	left: 67px;
+	top: 24px;
+	width: 69px;
+	height: 28px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Rubik;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 28.125px;
+}
+.LandingPage_LandingPage .Group1445 .Header .AboutUs {
+	position: absolute;
+	left: 135px;
+	top: 24px;
+	width: 155px;
+	height: 28px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Rubik;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 28.125px;
+}
+.LandingPage_LandingPage .Group1445 .ADEM {
+	position: absolute;
+	left: 1310px;
+	top: 23px;
+	width: 98px;
+	height: 34px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(241,241,242,1.00);
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 39.720001220703125px;
+}
+.LandingPage_LandingPage .Group {
+	position: absolute;
+	left: 880px;
+	top: 1684px;
+	width: 4.236111111111112%;
+	height: 3.210690192294134%;
+}
+.LandingPage_LandingPage .Group .Vector {
+	position: absolute;
+	left: 11.4375px;
+	top: 22.875px;
+	width: 62.5%;
+	height: 13.39469135855417%;
+}
+.LandingPage_LandingPage .Group .Vector_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group1440 {
+	position: fixed;
+	right: 20px;
+	bottom: 0px;
+	width: 451.88330078125px;
+	height: 75.031494140625px;
+}
+.LandingPage_LandingPage .Group1440 .Rectangle875:hover {
+	background: rgb(185, 121, 33);
+}
+.LandingPage_LandingPage .Group1440 .Rectangle875 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 451.88330078125px;
+	height: 75.031494140625px;
+	background: rgba(250,163,43,1.00);
+	border-radius: 20px 20px 0 0;
+}
+.LandingPage_LandingPage .Group1440 .HaveaQuestionAskMaya {
+	position: absolute;
+	left: 71.14892578125px;
+	top: 26.385009765625px;
+	width: 326px;
+	height: 39px;
+	color: rgba(255,255,255,1.00);
+	font-family: Rubik;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 28.125px;
+}
+.LandingPage_LandingPage .Group1440 .Group_1 {
+	position: absolute;
+	left: 17.14892578125px;
+	top: 23.385009765625px;
+	width: 9.72886908846116%;
+	height: 46.66025659797806%;
+}
+.LandingPage_LandingPage .Group1440 .Group_1 .Vector_2 {
+	position: absolute;
+	left: 8.2430419921875px;
+	top: 14.068359375px;
+	width: 62.499930583707716%;
+	height: 13.394653435657478%;
+}
+.LandingPage_LandingPage .Group1440 .Group_1 .Vector_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.LandingPage_LandingPage .Group1440 .Vector89 {
+	position: absolute;
+	left: 408.14892578125px;
+	top: 36.385009765625px;
+	width: 17px;
+	height: 10px;
+}
+.LandingPage_LandingPage .header-title {
+	position: absolute;
+	left: 180px;
+	top: 126px;
+	width: 1154px;
+	height: 163px;
+	color: rgba(0,0,0,1.00);
+	font-family: Rubik;
+	font-size: 64px;
+	font-weight: 700;
+	line-height: 75px;
+}

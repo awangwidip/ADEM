@@ -1,0 +1,509 @@
+
+.Academic_Academic {
+	position: relative;
+	left: 0px;
+	top: 0px;
+	margin: auto;
+	width: 100%;
+	height: 100vh;
+	overflow: auto;
+	background: rgba(255,255,255,1.00);
+}
+.Academic_Academic .BingungYukTanyaMaya {
+	position: absolute;
+	left: 968px;
+	top: 1690px;
+	width: 445px;
+	height: 63px;
+	color: rgba(255,255,255,1.00);
+	font-family: Poppins;
+	font-size: 28px;
+	font-weight: 700;
+	line-height: 32.8125px;
+}
+.Academic_Academic .Header {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1512px;
+	height: 80px;
+	background: rgba(35,113,148,1.00);
+}
+.Academic_Academic .Header .Home {
+	position: absolute;
+	left: 67px;
+	top: 24px;
+	width: 69px;
+	height: 28px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Rubik;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 28.125px;
+}
+.Academic_Academic .Header .AboutUs {
+	position: absolute;
+	left: 172px;
+	top: 24px;
+	width: 81px;
+	height: 32px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	color: rgba(255,255,255,1.00);
+	font-family: Rubik;
+	font-size: 18px;
+	font-weight: 600;
+	line-height: 32.39999771118164px;
+}
+.Academic_Academic .ADEM {
+	position: absolute;
+	left: 1310px;
+	top: 23px;
+	width: 98px;
+	height: 34px;
+	display: flex;
+	justify-content: center;
+	text-align: center;
+	align-items: center;
+	color: rgba(241,241,242,1.00);
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 39.720001220703125px;
+}
+.Academic_Academic .Group {
+	position: absolute;
+	left: 880px;
+	top: 1684px;
+	width: 4.236111111111112%;
+	height: 3.210690192294134%;
+}
+.Academic_Academic .Group .Vector {
+	position: absolute;
+	left: 11.4375px;
+	top: 22.875px;
+	width: 62.5%;
+	height: 13.39469135855417%;
+}
+.Academic_Academic .Group .Vector_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Academic_Academic .AcademicAnnouncement {
+	position: absolute;
+	left: 84px;
+	top: 213px;
+	width: 578px;
+	height: 50px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 36px;
+	font-weight: 700;
+	line-height: 59.58000183105469px;
+}
+.Academic_Academic .Group1440 {
+	position: absolute;
+	left: 61px;
+	top: 444px;
+	width: 487.588134765625px;
+	height: 383px;
+}
+.Academic_Academic .Group1440 .Rectangle50 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 402.93359375px;
+	height: 383px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 20px;
+}
+.Academic_Academic .Group1440 .LoremipsumdolorsitametconsecteturadipiscingelitPraesenteuplaceratmassaAeneanegestasdiamalacusmalesuadascelerisque {
+	position: absolute;
+	left: 41.6494140625px;
+	top: 128px;
+	width: 326.414794921875px;
+	height: 136px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.Academic_Academic .Group1440 .ReadMore {
+	position: absolute;
+	left: 275.466796875px;
+	top: 323px;
+	width: 212.121337890625px;
+	height: 33px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.Academic_Academic .Group1440 .Loremipsumdolorsitamet {
+	position: absolute;
+	left: 35.837890625px;
+	top: 51px;
+	width: 321.572021484375px;
+	height: 66px;
+	color: rgba(29,29,29,1.00);
+	font-family: Open Sans;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 28.125px;
+}
+.Academic_Academic .Group1435 {
+	position: absolute;
+	left: 61px;
+	top: 856px;
+	width: 487.588134765625px;
+	height: 383px;
+}
+.Academic_Academic .Group1435 .Rectangle50_1 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 402.93359375px;
+	height: 383px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 20px;
+}
+.Academic_Academic .Group1435 .LoremipsumdolorsitametconsecteturadipiscingelitPraesenteuplaceratmassaAeneanegestasdiamalacusmalesuadascelerisque_1 {
+	position: absolute;
+	left: 41.6494140625px;
+	top: 128px;
+	width: 326.414794921875px;
+	height: 136px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.Academic_Academic .Group1435 .ReadMore_1 {
+	position: absolute;
+	left: 275.466796875px;
+	top: 323px;
+	width: 212.121337890625px;
+	height: 33px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.Academic_Academic .Group1435 .Loremipsumdolorsitamet_1 {
+	position: absolute;
+	left: 35.837890625px;
+	top: 51px;
+	width: 321.572021484375px;
+	height: 66px;
+	color: rgba(29,29,29,1.00);
+	font-family: Open Sans;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 28.125px;
+}
+.Academic_Academic .Group1441 {
+	position: absolute;
+	left: 504px;
+	top: 444px;
+	width: 487.588134765625px;
+	height: 383px;
+}
+.Academic_Academic .Group1441 .Rectangle50_2 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 402.93359375px;
+	height: 383px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 20px;
+}
+.Academic_Academic .Group1441 .LoremipsumdolorsitametconsecteturadipiscingelitPraesenteuplaceratmassaAeneanegestasdiamalacusmalesuadascelerisque_2 {
+	position: absolute;
+	left: 41.6494140625px;
+	top: 128px;
+	width: 326.4149169921875px;
+	height: 136px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.Academic_Academic .Group1441 .ReadMore_2 {
+	position: absolute;
+	left: 275.466796875px;
+	top: 323px;
+	width: 212.1212158203125px;
+	height: 33px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.Academic_Academic .Group1441 .Loremipsumdolorsitamet_2 {
+	position: absolute;
+	left: 35.837890625px;
+	top: 51px;
+	width: 321.572021484375px;
+	height: 66px;
+	color: rgba(29,29,29,1.00);
+	font-family: Open Sans;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 28.125px;
+}
+.Academic_Academic .Group1436 {
+	position: absolute;
+	left: 504px;
+	top: 856px;
+	width: 487.588134765625px;
+	height: 383px;
+}
+.Academic_Academic .Group1436 .Rectangle50_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 402.93359375px;
+	height: 383px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 20px;
+}
+.Academic_Academic .Group1436 .LoremipsumdolorsitametconsecteturadipiscingelitPraesenteuplaceratmassaAeneanegestasdiamalacusmalesuadascelerisque_3 {
+	position: absolute;
+	left: 41.6494140625px;
+	top: 128px;
+	width: 326.4149169921875px;
+	height: 136px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.Academic_Academic .Group1436 .ReadMore_3 {
+	position: absolute;
+	left: 275.466796875px;
+	top: 323px;
+	width: 212.1212158203125px;
+	height: 33px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.Academic_Academic .Group1436 .Loremipsumdolorsitamet_3 {
+	position: absolute;
+	left: 35.837890625px;
+	top: 51px;
+	width: 321.572021484375px;
+	height: 66px;
+	color: rgba(29,29,29,1.00);
+	font-family: Open Sans;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 28.125px;
+}
+.Academic_Academic .Group1434 {
+	position: absolute;
+	left: 945px;
+	top: 444px;
+	width: 487.588134765625px;
+	height: 383px;
+}
+.Academic_Academic .Group1434 .Rectangle50_4 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 402.93359375px;
+	height: 383px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 20px;
+}
+.Academic_Academic .Group1434 .LoremipsumdolorsitametconsecteturadipiscingelitPraesenteuplaceratmassaAeneanegestasdiamalacusmalesuadascelerisque_4 {
+	position: absolute;
+	left: 41.6494140625px;
+	top: 128px;
+	width: 326.4149169921875px;
+	height: 136px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.Academic_Academic .Group1434 .ReadMore_4 {
+	position: absolute;
+	left: 275.466796875px;
+	top: 323px;
+	width: 212.1212158203125px;
+	height: 33px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.Academic_Academic .Group1434 .Loremipsumdolorsitamet_4 {
+	position: absolute;
+	left: 35.837890625px;
+	top: 51px;
+	width: 321.572021484375px;
+	height: 66px;
+	color: rgba(29,29,29,1.00);
+	font-family: Open Sans;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 28.125px;
+}
+.Academic_Academic .Group1437 {
+	position: absolute;
+	left: 945px;
+	top: 856px;
+	width: 487.588134765625px;
+	height: 383px;
+}
+.Academic_Academic .Group1437 .Rectangle50_5 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 402.93359375px;
+	height: 383px;
+	background: rgba(255,255,255,1.00);
+	border-radius: 20px;
+}
+.Academic_Academic .Group1437 .LoremipsumdolorsitametconsecteturadipiscingelitPraesenteuplaceratmassaAeneanegestasdiamalacusmalesuadascelerisque_5 {
+	position: absolute;
+	left: 41.6494140625px;
+	top: 128px;
+	width: 326.4149169921875px;
+	height: 136px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.Academic_Academic .Group1437 .ReadMore_5 {
+	position: absolute;
+	left: 275.466796875px;
+	top: 323px;
+	width: 212.1212158203125px;
+	height: 33px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 18px;
+	font-weight: 400;
+	line-height: 21.09375px;
+}
+.Academic_Academic .Group1437 .Loremipsumdolorsitamet_5 {
+	position: absolute;
+	left: 35.837890625px;
+	top: 51px;
+	width: 321.572021484375px;
+	height: 66px;
+	color: rgba(29,29,29,1.00);
+	font-family: Open Sans;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 28.125px;
+}
+.Academic_Academic .Group1438 {
+	position: absolute;
+	left: 73px;
+	top: 323px;
+	width: 1251px;
+	height: 57px;
+}
+.Academic_Academic .Group1438 .Rectangle889 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 1251px;
+	height: 57px;
+	background: rgba(196,196,196,1.00);
+	border-radius: 10px;
+}
+.Academic_Academic .Group1438 .Search {
+	position: absolute;
+	left: 54px;
+	top: 9px;
+	width: 1143px;
+	height: 48px;
+	color: rgba(0,0,0,1.00);
+	font-family: Poppins;
+	font-size: 24px;
+	font-weight: 400;
+	line-height: 39.720001220703125px;
+}
+.Academic_Academic .Group1447 {
+	position: fixed;
+	right: 20px;
+	bottom: 0px;
+	width: 451.88330078125px;
+	height: 75.031494140625px;
+}
+.Academic_Academic .Group1440 .Rectangle875:hover {
+	background: rgb(185, 121, 33);
+}
+.Academic_Academic .Group1447 .Rectangle875 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 451.88330078125px;
+	height: 75.031494140625px;
+	background: rgba(250,163,43,1.00);
+	border-radius: 20px 20px 0 0;
+}
+.Academic_Academic .Group1447 .HaveaQuestionAskMaya {
+	position: absolute;
+	left: 71.14892578125px;
+	top: 26.385009765625px;
+	width: 326px;
+	height: 39px;
+	color: rgba(255,255,255,1.00);
+	font-family: Rubik;
+	font-size: 24px;
+	font-weight: 700;
+	line-height: 28.125px;
+}
+.Academic_Academic .Group1447 .Group_1 {
+	position: absolute;
+	left: 17.14892578125px;
+	top: 23.385009765625px;
+	width: 9.72886908846116%;
+	height: 46.66009390587937%;
+}
+.Academic_Academic .Group1447 .Group_1 .Vector_2 {
+	position: absolute;
+	left: 8.2430419921875px;
+	top: 14.068359375px;
+	width: 62.499930583707716%;
+	height: 13.394700139470014%;
+}
+.Academic_Academic .Group1447 .Group_1 .Vector_3 {
+	position: absolute;
+	left: 0px;
+	top: 0px;
+	width: 100%;
+	height: 100%;
+}
+.Academic_Academic .Group1447 .Vector89 {
+	position: absolute;
+	left: 408.14892578125px;
+	top: 36.385009765625px;
+	width: 17px;
+	height: 10px;
+}
