@@ -36,7 +36,7 @@ router.get('/edit-announcement/:id', async(req,res) => { //ubah
 })
 
 // add new data
-router.post('/create-announcement', async(req,res) => { //ubah
+router.post('/create-announcement', async(req,res) => { 
     try {
         const announcement = new Announcement({
             announcementName : req.body.announcementName,
